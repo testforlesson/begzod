@@ -1,0 +1,11 @@
+div>ul>li{
+    color: green;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: large;
+}
+div:nth-child(3){
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
